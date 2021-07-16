@@ -11,6 +11,6 @@ function MyApp({ Component, pageProps }) {
 export default MyApp;
 
 MyApp.propTypes = {
-  Component: PropTypes.element,
+  Component: PropTypes.any,
   pageProps: PropTypes.any,
 };
