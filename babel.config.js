@@ -2,7 +2,7 @@
  * @author Aniket Kolekar
  * @email aniketkolekar47@gmail.com
  * @create date 2021-07-16 16:45:00
- * @modify date 2021-07-16 17:09:46
+ * @modify date 2021-07-16 17:36:47
  * @desc Project wide babel config
  *
  * The .babelrc file works only for the files in a specific folder.
@@ -10,5 +10,5 @@
  */
 
 module.exports = {
-  presets: ['@babel/preset-env', '@babel/preset-react', 'next/babel'],
+  presets: ['@babel/preset-react', 'next/babel'],
 };
