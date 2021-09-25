@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aniket Kolekar (@aniketkolekar)
-- 👀 I’m interested in Full Stack Application Design and Development
+- 👀 I’m interested in Full Stack Web & Mobile Application Development
 - 🌐 My portfolio website - https://aniketkolekar.vercel.app/
 - 📫 How to reach me - aniketkolekar47@gmail.com
 - 💼 My LinkedIn profile - https://www.linkedin.com/in/aniketkolekar/
